@@ -3,8 +3,7 @@ bn-chai extends [Chai](http://chaijs.com/) with assertions about [bn.js](https:/
 
 ## Installation
 ```bash
-npm install --save bn-chai
-yarn add bn-chai
+npm install -s bn-chai
 ```
 
 ## Setup
