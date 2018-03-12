@@ -1,6 +1,6 @@
 {
   "name": "bn-chai",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Extends chai with bn.js operations",
   "keywords": [
     "chai",
