@@ -126,3 +126,12 @@ expect(1).to.eq.BN(new BN('1'));
 expect(1).to.eq.BN('1');
 expect(1).to.eq.BN(1);
 ```
+
+## Executing example tests
+
+Example unit tests making use of this plugin can be executed by running the following commands:
+
+```
+cd test
+npm run test; npm run failTest
+```
