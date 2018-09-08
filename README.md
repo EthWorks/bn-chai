@@ -9,6 +9,7 @@ npm install -s bn-chai
 ## Setup
 ```javascript
 var chai = require('chai');
+var expect = chai.expect;
 var BN = require('bn.js');
 var bnChai = require('bn-chai');
 chai.use(bnChai(BN));
